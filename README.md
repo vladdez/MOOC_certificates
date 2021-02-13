@@ -10,6 +10,7 @@
    - [Linear Regression and Modeling](https://www.coursera.org/learn/linear-regression-model) ([certificate](https://coursera.org/share/b9124629d4333164a892acfdaa82ca40))
    - [Bayesian Statistics](https://www.coursera.org/learn/bayesian) ([certificate](https://coursera.org/share/104e6192af9e421d67c87535ca097861))
    - [Statistics with R Capstone](https://www.coursera.org/learn/statistics-project) ([certificate](https://coursera.org/share/e647fd1f2836388b8c88cd2d3d9ec08f))    
+   - [Version Control with Git](https://www.coursera.org/learn/version-control-with-git/home/welcome) ([certificate] (https://coursera.org/share/6c1bc98f2e16438b0ad97fd8ef5135cf))
     
 
  # Social Sciences
