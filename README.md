@@ -13,5 +13,5 @@
  - [Version Control with Git](https://www.coursera.org/learn/version-control-with-git/home/welcome) ([certificate](https://coursera.org/share/6c1bc98f2e16438b0ad97fd8ef5135cf)) @ Atlassian
     
 
- # Social Sciences
+ # Social Science
  - [Introduction to Neuroeconomics: How the Brain Makes Decisions](https://www.coursera.org/learn/neuroeconomics/home/welcome) ([certificate](https://coursera.org/share/4599e017d98fd0101a5f94af74c76bc2)) @ Higher School of Economics
