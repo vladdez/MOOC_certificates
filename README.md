@@ -5,6 +5,7 @@
  - [Version Control with Git](https://www.coursera.org/learn/version-control-with-git/home/welcome) ([certificate](https://coursera.org/share/6c1bc98f2e16438b0ad97fd8ef5135cf)) @ Atlassian
  - [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau/home/welcome) ([certificate](https://coursera.org/share/e8e13cb2ea5aacf1b509704484265452)) @ Duke University   
  - [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming/home/welcome) ([certificate](https://coursera.org/share/b08e38d5af3008b3540f145f830827c3)) @ Duke University    
+- [Basics of Cybersecurity](https://ulearn.me/course/hackerdom/2bc58982-19aa-49ef-bae2-8aaa5d13b967) @ Ural Federal University
 
 # Statistics  
  - [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) ([certificate](https://coursera.org/share/96263eaf65b486f1b9b1c5ded7de28f8)) @ University of Michigan
